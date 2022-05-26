@@ -6,4 +6,4 @@ It has functionality of sorting products according to available sizes also can f
 
 It also has a cart of user in which user can add products in one to may quantity also can remove product from cart
 
-View:
+View: https://abhi3693-shopping-cart-app.netlify.app/
